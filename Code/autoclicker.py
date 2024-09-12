@@ -14,8 +14,8 @@ import customtkinter
 import threading
 import spinbox as spinbox
 
-autoclick_key = Key.f5
-holdm_key = Key.f6
+autoclick_key = Key.f6
+holdm_key = Key.f7
 
 button1 = "Left"
 clicktype = "Single"
